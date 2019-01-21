@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+/*application.css.scss*/
+ html {
+   font-family: Helvetica, sans-serif;
+}
+
+@import "answers";
+@import "questions"
